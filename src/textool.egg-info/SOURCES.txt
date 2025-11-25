@@ -1,0 +1,10 @@
+pyproject.toml
+src/textool/__init__.py
+src/textool/cli.py
+src/textool.egg-info/PKG-INFO
+src/textool.egg-info/SOURCES.txt
+src/textool.egg-info/dependency_links.txt
+src/textool.egg-info/entry_points.txt
+src/textool.egg-info/requires.txt
+src/textool.egg-info/top_level.txt
+src/textool/extractors/__init__.py

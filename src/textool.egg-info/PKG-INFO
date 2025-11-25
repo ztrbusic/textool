@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: textool
+Version: 0.1.0
+Summary: Text tool: metadata & PII checks for digitized documents.
+Requires-Python: >=3.11
+Requires-Dist: typer>=0.12.3
+Requires-Dist: click==8.1.7
+Requires-Dist: rich==13.7.1

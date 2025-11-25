@@ -1,0 +1,2 @@
+[console_scripts]
+textool = textool.cli:app

@@ -8,3 +8,4 @@ src/textool.egg-info/entry_points.txt
 src/textool.egg-info/requires.txt
 src/textool.egg-info/top_level.txt
 src/textool/extractors/__init__.py
+src/textool/extractors/pii_extractor.py
